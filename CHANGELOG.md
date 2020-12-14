@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.5](https://github.com/lucabecci/lerna-test/compare/v1.0.4...v1.0.5) (2020-12-14)
+
+
+### Bug Fixes
+
+* **@walnut/server:** updated name common func  of server ([414febb](https://github.com/lucabecci/lerna-test/commit/414febb4a03be75189a35745740e42f0e8b07577))
+
+
+
+
+
 ## [1.0.4](https://github.com/lucabecci/lerna-test/compare/v1.0.3...v1.0.4) (2020-12-14)
 
 
