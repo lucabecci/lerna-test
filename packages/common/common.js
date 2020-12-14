@@ -1,5 +1,5 @@
 module.exports = () => {
-    console.log("hello from common 12");
-    console.log("hello from common 12");
-    console.log("hello from common 12");
+    console.log("this is a common module");
+    console.log("this is a common module");
+    console.log("this is a common module");
   };
