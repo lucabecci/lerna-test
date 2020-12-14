@@ -1,7 +1,7 @@
-const commonFunction = require("@walnut/common");
+const commonFunc = require("@walnut/common");
 
-commonFunction();
-commonFunction();
-commonFunction();
+commonFunc();
+commonFunc();
+commonFunc();
 
 console.log('Index APP')
